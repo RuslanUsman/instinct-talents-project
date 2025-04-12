@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/instinct-talents-project/static/css/main.49cbaeb0.css",
+    "main.js": "/instinct-talents-project/static/js/main.aeb0a30e.js",
+    "static/js/453.4420484d.chunk.js": "/instinct-talents-project/static/js/453.4420484d.chunk.js",
+    "index.html": "/instinct-talents-project/index.html",
+    "main.49cbaeb0.css.map": "/instinct-talents-project/static/css/main.49cbaeb0.css.map",
+    "main.aeb0a30e.js.map": "/instinct-talents-project/static/js/main.aeb0a30e.js.map",
+    "453.4420484d.chunk.js.map": "/instinct-talents-project/static/js/453.4420484d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49cbaeb0.css",
+    "static/js/main.aeb0a30e.js"
+  ]
+}
